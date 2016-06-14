@@ -6,7 +6,7 @@ author : T. Evgeniou, INSEAD
 
 ```{r include=FALSE}
 # let's make the data into data.matrix classes so that we can easier visualize them
-local_directory <- "/Users/theos/Documents/Theos/Teaching/MBA_COURSES/Data Analytics R version/CourseWebsite/CourseSessions/Sessions45"
+local_directory <- "/Users/christianschoenherr/Documents/INSEAD MBA/P3/Big Data for Businesses/git/INSEADAnalytics/CourseSessions/Sessions45"
 datafile_name="Mall_Visits" # do not add .csv at the end! make sure the data are numeric!!!! check your file!
 report_file = "Report_s45"
 slides_file = "Slides_s45"
